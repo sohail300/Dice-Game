@@ -1,3 +1,3 @@
 # dice-game
 
-Deployed Link: https://sohail60.github.io/dice-game/
+Deployed Link: https://sohail300.github.io/Dice-Game/
